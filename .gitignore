@@ -1,2 +1,13 @@
 # Created by .ignore support plugin (hsz.mobi)
 /.idea/
+/Collections/.idea/
+/DesignPatterns/.idea/
+/DesignPatterns/target/
+/Collections/Collections.iml
+/DesignPatterns/DesignPatterns.iml
+/Puzzels/.idea/
+/Puzzels/Puzzels.iml
+/Puzzels/out/
+/Strings/.idea/
+/Strings/out/
+/Strings/Strings.iml
